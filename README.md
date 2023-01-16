@@ -1,3 +1,7 @@
+# https://github.com/LeonBlade/BDTHPlugin has released an update, use that ^.^
+
+---
+
 # This is an unofficial edit of BDTHPlugin for 6.3 until LeonBlade releases their own version
 
 Add the following to your Dalamud custom repository list, under Settings -> Experimental:
